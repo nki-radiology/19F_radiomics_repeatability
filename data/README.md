@@ -18,5 +18,5 @@ The primary derived dataset used by the notebooks is a tabular feature file wher
 
 - **One row corresponds to one ROI** (one segmented lesion/region).
 - Columns include:
-  - **Identifiers**: at minimum `scan_id`/"Scan_Name" and `roi_id`/"Segment Name" (and optionally `subject_id`, `cohort`, `reader`, `repeat_index`, etc.).
+  - **Identifiers**: at minimum `scan_id`/`Scan_Name` and `roi_id`/`Segment Name` (and optionally `subject_id`, `cohort`, `reader`, `repeat_index`, etc.).
   - **Radiomic features**: numeric columns produced by PyRadiomics.
