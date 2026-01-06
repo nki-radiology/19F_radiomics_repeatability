@@ -5,7 +5,7 @@ This repository contains the analysis notebooks and lightweight helper code used
 ## What is in this repository
 
 - `notebooks/`: the analysis notebooks.
-- `data/`: **no real data** is distributed. Contains a README and an example metadata file format.
+- `data/`: **no real data** is distributed. Contains a README describing the input file formats.
 
 ## Data availability
 This repository does not include imaging data, segmentations, or any patient-level data.  
